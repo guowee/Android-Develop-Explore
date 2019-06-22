@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.uowee.chapter.three.widget.RevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="12dp">
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/AppTheme.Button.Green"
+        android:text="View基础" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/AppTheme.Button.Green"
+        android:text="CircleView" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/AppTheme.Button.Green"
+        android:text="HorizontalScrollViewEx" />
+
+</com.uowee.chapter.three.widget.RevealLayout>
